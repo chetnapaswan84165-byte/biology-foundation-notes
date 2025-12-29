@@ -30,3 +30,6 @@ Full form of DNA is - Deoxyribonucleic acid. It is found in nucleus of a cell. I
 
  Why it is necessary for having ladder shape structure? 
 
+ ## One Real Life Example why DNA structure matters
+ DNA structure matters the most because it form genetic codes where every codes represent their respective protein formation and these proteins perform the basics functions of a living body. DNA structure matters is the case of a patient undergoing gene therapy. If the DNA structure were to be incorrect it could lead to errors in the genetic code, resulting in effective gene therapy and potentially harmful health outcomes.
+
