@@ -1,0 +1,27 @@
+# What is Genetic  Code
+Genetic code is the set of rules in which nucleotides bases or triplets or codons codes for different amino acids to form protein. This translation is essential for the body because it is the bulding block of body.
+Codon codes for amino acid during translation for  protein formation, this genetic code transfer genetic information by these codons. And these codon codes for amino acid in protein this protein leads the specific functions of body.
+There is three types of codon:- 
+Intiation codon(Chain initiation codon) :- Initiation codon AUG codes for begin the process of tranlation from this specific point. Sometimes GUG in prokaryotes code for Intiation, GUG specifically codes for valine but in its rare cases it codes for initiation. `
+Stop codon(Chain termination codon):- Stop Codon UAA, UGA, UAG codes for termination the process of translation, means presenceof stop codon signals ribosomes to stop the process on this point. These stop codon does not code for amino acid that;s why they are called as nonsence codon.These stop codon are essential for indicating the end of protein-coding sequence, ensuring that polypeptides chain released from the ribosomes at specific point to from protein.
+Implications:- From 64 codon there is 61 codes for amino acid show as sense codon and 3 as stop codon. These sense codon are responsible for synthesising 20 specific amino acid for proteins formation.
+
+
+
+# Why multiple codon codes for same amino acid
+In codon table we have 64 codon in which 61 codes for amino acid in protein, and left 3 is codes for termination. We have 4 nucleotides(Uracil, Cytocine, Gunanine, Argnine) in RNA strand, If we pair theese 4 nucleotides in a way such as
+4^2 = 16 codon it only for 16 amino acid which is insufficeient, then we arranged 4 nucelotides as 4^3= 64, in this arrangement of nucleotides we have 64 codon which can easily code for 20 different amino acid, and also code for termination.
+So arrengement of 4^3=64 codon shows us that a single amino acid can be now coded by more than 4 codons.The arrangement of 64 codon in codon table can codes for 64 amino acid but the requirments of amino acid is only 20 so forming 64 amino acid 
+leads to complications in organisms, so that's why from 64 codons, multiple codon codes for sinlge amino acid, such as Leucine (Leu) coded by 6 codon. Also this multiple codon code for single amino acid ensure that avaibility of only one codon from 6 codon can code for Leucine, and this show if any mutation happened and may be there is no shortage of these amino acid have top face. 
+There is two codon that code for only their specific amino acid such as Methionine is coded by AUG only this is also play a signinficant role in intiation of translation, GUG sometimes in rare case plays the role of initiation. 
+Another one UGG only codes for tryphoton amino acid. 
+This feautre of multiple codon codes for same amino acid know as degeneracy of genetic code, this feature is discovered by Barunfield and Nirenberg.
+
+
+
+
+
+# Role of STOP codon
+STOP codon is UAA, UGA,UAG. The sequence of this codon in mRNA strand signaling the termination of protein syntheseis. During the processs of translation presence of stop codon signaling ribosome to terminate the process or stop generating amino acid. 
+Presence of STOP codon is necessary in mRNA strand because it shows when the process stop, and leading to form specific protein from the sequence of formed amino acid during the process of translation.
+
