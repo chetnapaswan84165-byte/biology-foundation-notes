@@ -1,16 +1,18 @@
-ORF conservation:-  Open reading frames refers to preservation of coding sequences across species or lineage. It means DNA sequence continues to encodes funtional protein without disruption. 
+ORF conservation:-  Open reading frames refers to preservation of an uninterrupted coding region that maintains the same reading frame and produces a functional protein across species or evolutionary time.
 What does it mean evloutionarily
-ORF conservation indicates that the protein encoded is essential for survival or fitness, so natural selection maintains its integrity across generations.
+ORF conservation indicates that the protein encoded is essential for survival or fitness, so natural selection maintains its integrity across generations. Natural selection removes mutations that disrupt essential ORFs.
 
 Why long ORFs are selected
-Long ORFs are more likely to encodes functional proteins. Random sequnces rarely maintain long uninterrupted coding stretches unless they are biologically important.
+Long ORFs are more likely to encodes functional proteins. Random sequnces rarely maintain long uninterrupted coding stretches unless they are biologically important. Long ORFs are statistically unlikely by chance, therefore long conserved ORFs are strong evidence of real genes.
 
 
 What breaks conservation
-Mutations such as frameshift, nonsense, insertion/deletion or recombination events can disrupt the ORF, leading to loss of function.
+Mutations such as frameshift, nonsense, insertion/deletion, start codon loss, premature polyadenylation, splice-site mutation or recombination events can disrupt the ORF, leading to loss of function.
 
 Orthologus Genes:- Orthologus genes are genes in different species that originated from a common ancestor and diverged after a speciation event.
-Orthologs vs Paralogs:- Orthologus are those which have genes originated from common ancestor and it perform different functions. Whereas Paralogs are those which genetically diversify. 
+Orthologs vs Paralogs:- 
+Orthologs: Genes in different species derived from a common ancestor that usually retain the same function.
+Paralogs: Genes produced by duplication within the same genome, which often diverge to perform different functions.
 
 Why orthologs are used for functional prediction:
 Orthologs are used for functional predictions because they tend to conserve function across species, making them reliable for inferring gene roles in newly studies organisms.
